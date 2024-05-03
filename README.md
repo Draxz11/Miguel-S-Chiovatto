@@ -6,8 +6,6 @@
 <div>
 
 <h2>🎓Formações🎓</h2>
-  
-<p>- Programador e Estudante de jogos Digitais</p> 
 
 <div>
 <p>- Atualmente sou Estudante na Escola SENAI de Informática, Cursando Técnico em Jogos Digitais</p>
@@ -17,7 +15,7 @@
   <a href="https://github.com/Draxz11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Draxz11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxz11&layout=compact&langs_count=7&theme=dark"/>
-  <h2></h2>
+  <h2>Experiências:</h2>
   <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
    <img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
