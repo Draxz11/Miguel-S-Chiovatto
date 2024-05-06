@@ -2,6 +2,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E05039&random=false&width=435&lines=Ol%C3%A1%2C+Me+chamo+Miguel+S.;Seja+Bem-Vindo+ao+meu+perfil" alt="Typing SVG" /></a>
 </div>
 
+<div align="center">
+  <h2>Visits Counter</h2> 
+  
+  ![Visitor Count](https://profile-counter.glitch.me/Miguel-S-Chiovatto/count.svg)    
+</div>
 
 <div>
 
