@@ -13,25 +13,33 @@
 <h2>🎓Formações🎓</h2>
 
 <div>
-<p>- Atualmente sou Estudante na Escola SENAI de Informática, Cursando Técnico em Jogos Digitais</p>
+<p>- Atualmente sou Estudante na Escola SENAI de Informática (1.34), Cursando Superior em Ciber Segurança e Técnico em Jogos Digitais</p>
 </div>
 
 <div>
   <a href="https://github.com/Draxz11">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Draxz11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draxz11&layout=compact&langs_count=7&theme=dark"/>
-  <h2>Experiências:</h2>
+  <img align="center" alt="Miguel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Miguel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Miguel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Miguel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Miguel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center"  alt="figma logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-   <img align="center" alt="Tadeu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tadeu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tadeu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center"  alt="git logo" height="30" width="40" src="https://cdn.simpleicons.org/git/F05032"/>
+  <img align="center"  alt="unity logo" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
+  <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
+  <img align="center"  alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
 </div>
 
 <div>
   <h2>Certificações</h2> 
     <p>- Desvendando o 5G</p>
-    <p>- Privacidade e Proteção de dados (lgpd)</p>
+    <p>- Privacidade e proteção de dados (LGPD)</p>
     <p>- Economia circular</p>
+  <p>Acessibilidade de inclusão Digital</p>
+  <p>Workshop - Hackaton - Diggi Systems</p>
+  <p>Desvendando a descarbonização</p>
+  <p>Ética na inteligência artificial</p>
+  <p>Por dentro da segurança cibernética</p>
 </div>
 
 <div>
