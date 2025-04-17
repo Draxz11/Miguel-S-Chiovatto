@@ -35,11 +35,11 @@
     <p>- Desvendando o 5G</p>
     <p>- Privacidade e proteção de dados (LGPD)</p>
     <p>- Economia circular</p>
-  <p>Acessibilidade de inclusão Digital</p>
-  <p>Workshop - Hackaton - Diggi Systems</p>
-  <p>Desvendando a descarbonização</p>
-  <p>Ética na inteligência artificial</p>
-  <p>Por dentro da segurança cibernética</p>
+  <p>- Acessibilidade de inclusão Digital</p>
+  <p>- Workshop - Hackaton - Diggi Systems</p>
+  <p>- Desvendando a descarbonização</p>
+  <p>- Ética na inteligência artificial</p>
+  <p>- Por dentro da segurança cibernética</p>
 </div>
 
 <div>
