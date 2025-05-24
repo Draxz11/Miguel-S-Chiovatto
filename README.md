@@ -28,6 +28,7 @@
   <img align="center"  alt="unity logo" height="30" width="40" src="https://cdn.simpleicons.org/unity/FFFFFF"/>
   <img align="center"  alt="adobephotoshop logo" height="30" width="40"src="https://skillicons.dev/icons?i=ps" height="40"/>
   <img align="center"  alt="Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/azure/azure-original.svg">
+    <img align="center" alt="VMware" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/VMware_logo.svg">
 </div>
 
 <div>
